@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 20000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" A. LANGE & SÖHNE",
+        "price": 25000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" AUDEMARS PIGUET",
+        "price": 29000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" GREUBEL FORSEY",
+        "price": 14000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" GREUBEL FORSEY",
+        "price": 30000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" PATEK PHILLIPE",
+        "price": 19000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" VACHERON CONSTANTIN",
+        "price": 17000,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":"VACHERON CONSTANTIN",
+        "price": 20000,
+        "image": "image/8.png"
+    }
+
+]
